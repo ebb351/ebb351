@@ -14,13 +14,13 @@ I'm a Master’s student in Computer Science at NYU Tandon in NYC. My aim is to 
 
 ## 🔧 Skills
 - **Languages & Frameworks:** Python, C++, FastAPI, SQL, JavaScript
-- **Libraries & Tools:** Plotly, Firebase, Git, GitHub, React
-- **Interests:** Software Engineering, Machine Learning, Data Science, Web Development, User Experience
+- **Libraries & Tools:** TensorFlow, Matlab, D3, React, Flask, Matplotlib, MySQL, Firebase, Git
+- **Interests:** Machine Learning, Data Science, Databases, Web Development, User Experience
 
 ## 📈 Stats & Highlights
 - 🎓 Pursuing a Master’s in CS at NYU Tandon
 - 🌆 Based in NYC
-- 📚 Transitioning from SaaS sales to CS with a focus on AI, ML, and full-stack development
+- 📚 Transitioning from SaaS sales to CS with a focus on AI and ML
 - 💡 Always looking to collaborate on impactful projects!
 
 Feel free to explore my repositories and connect with me for potential collaborations, insights, or internship opportunities. Thanks for stopping by!
